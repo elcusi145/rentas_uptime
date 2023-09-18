@@ -1,7 +1,7 @@
 url: https://rentas.catamarcaciudad.gob.ar/ui/index.php
-status: down
-code: 500
-responseTime: 3877
-lastUpdated: 2023-09-17T23:11:14.361Z
+status: up
+code: 200
+responseTime: 913
+lastUpdated: 2023-09-18T10:15:14.042Z
 startTime: 2022-11-06T23:41:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
