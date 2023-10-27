@@ -4,12 +4,12 @@
     "url": "https://rentas.catamarcaciudad.gob.ar/ui/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/rentas.catamarcaciudad.gob.ar.ico",
     "slug": "rentas-municipal",
-    "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "4.53%",
-    "uptimeWeek": "7.45%",
-    "uptimeMonth": "69.07%",
-    "uptimeYear": "97.35%",
+    "status": "down",
+    "uptime": "97.36%",
+    "uptimeDay": "5.19%",
+    "uptimeWeek": "7.54%",
+    "uptimeMonth": "69.25%",
+    "uptimeYear": "97.36%",
     "time": 1133,
     "timeDay": 1106,
     "timeWeek": 1110,
@@ -27,7 +27,7 @@
       "2023-10-19": 1005,
       "2023-10-18": 1131,
       "2023-10-17": 914,
-      "2023-10-16": 313
+      "2023-10-16": 238
     }
   }
 ]
