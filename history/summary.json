@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rentas.catamarcaciudad.gob.ar.ico",
     "slug": "rentas-municipal",
     "status": "down",
-    "uptime": "47.77%",
+    "uptime": "47.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1414,
+    "timeYear": 1463,
     "dailyMinutesDown": {
-      "2024-11-17": 56,
+      "2024-11-18": 54,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -379,8 +380,7 @@
       "2023-11-23": 1425,
       "2023-11-22": 1440,
       "2023-11-21": 1400,
-      "2023-11-20": 1430,
-      "2023-11-19": 1424
+      "2023-11-20": 1430
     }
   }
 ]
